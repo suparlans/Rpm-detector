@@ -1,6 +1,6 @@
 //==================================================================================||
 //Monitoring RPM with LM393 module and LCD with I2C module                          ||
-//Author; SLAMET SUPARLAN, instagram @slamet_suparlan, WhatsApp: +62 858 700 8869   ||
+//Author; SLAMET SUPARLAN, instagram @slamets.7 , WhatsApp: +62 858 7000 8869   ||
 //DATE  ; MAY 25th, 2019                                                            ||
 //==================================================================================||
 
